@@ -1,5 +1,5 @@
 import smtplib
-sender_email="rithiksharma@gmail.com"
+sender_email="xyzteam@gmail.com"
 rec_email="rithiksharma27@gmail.com"
 password="password"
 message="Accuracy greater than 80 percent has been acheived. "
